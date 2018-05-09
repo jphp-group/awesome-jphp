@@ -19,6 +19,7 @@ A curated list of amazingly awesome JPHP libraries, resources and shiny things.
 - [JPHP Compiler](https://github.com/jphp-group/jphp/tree/master/jphp-core/api-docs) - a compiler to java byte code for jphp.
 - [JPPM](https://github.com/jphp-group/jphp/tree/master/packager) - the default package manager and build tool for JPHP.
 - [Debbuger](https://github.com/jphp-group/jphp/tree/master/jphp-debugger/api-docs) - a debuger for JPHP based on XDebug protocol.
+- [Tester](https://github.com/jphp-group/tester) - a unit test framework for jphp and jppm.
 
 ### GUI
 
