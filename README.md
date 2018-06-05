@@ -24,7 +24,7 @@ A curated list of amazingly awesome JPHP libraries, resources and shiny things.
 ### GUI
 
 - JavaFX - [jphp-gui-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-gui-ext/api-docs) - a rich gui library based on JavaFX.
-- Matrial UI - [jphp-gui-jfoenix-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-gui-jfoenix-ext/api-docs) - material ui components for the JavaFX library.
+- Material UI - [jphp-gui-jfoenix-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-gui-jfoenix-ext/api-docs) - material ui components for the JavaFX library.
 - SWT - [jphp-swt-ext](https://github.com/jphp-group/jphp-swt-ext) - a lightweight gui library based on SWT and with good performance.
 
 ### Web
