@@ -22,9 +22,10 @@ A curated list of amazingly awesome JPHP libraries, resources and shiny things.
 - [Tester](https://github.com/jphp-group/tester) - a unit test framework for jphp and jppm.
 
 ### GUI
-
-- JavaFX - [jphp-gui-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-gui-ext/api-docs) - a rich gui library based on JavaFX.
-- Material UI - [jphp-gui-jfoenix-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-gui-jfoenix-ext/api-docs) - material ui components for the JavaFX library.
+- JavaFX 
+  - JavaFX - [jphp-gui-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-gui-ext/api-docs) - a rich gui library based on JavaFX.
+  - Material UI - [jphp-gui-jfoenix-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-gui-jfoenix-ext/api-docs) - material ui components for the JavaFX library.
+  - Charts Extension [jphp-charts-ext](https://github.com/jphp-group/jphp-charts-ext) - charts Extension
 - SWT - [jphp-swt-ext](https://github.com/jphp-group/jphp-swt-ext) - a lightweight gui library based on SWT and with good performance.
 
 ### Web
@@ -32,7 +33,9 @@ A curated list of amazingly awesome JPHP libraries, resources and shiny things.
 - [Http Client](https://github.com/jphp-group/jphp/tree/master/exts/jphp-httpclient-ext) - a basic http client with many features.
 - [JSoup](https://github.com/jphp-group/jphp/tree/master/exts/jphp-jsoup-ext/api-docs) - a library for parsing html like in jQuery.
 - [Mail](https://github.com/jphp-group/jphp/tree/master/exts/jphp-mail-ext/api-docs) - a library for sending mails via SMTP servers.
-- [jURL](https://github.com/TsSaltan/DevelNext-jURL) - a polyfill for zend cURL extension, only for DevelNext.
+- JURL - a polyfill for zend cURL extension
+  - [jURL](https://github.com/jphp-group/JURL) - for JPPM.
+  - [jURL](https://github.com/TsSaltan/DevelNext-jURL) - for DevelNext.
 
 ### Desktop
 - [jphp-gui-systemtray-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-gui-systemtray-ext/api-docs) - a system tray extension for gui javafx library.
@@ -56,5 +59,9 @@ A curated list of amazingly awesome JPHP libraries, resources and shiny things.
 - [jphp-git-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-git-ext/api-docs) - JGit wrapper, for working with git repositories, reading and writing.
 - [jphp-compress-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-compress-ext/api-docs) - a compress library, supports tar, bz2, gz, zip and lz4 formats.
 - [jphp-graphic-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-graphic-ext/api-docs) - a graphic library like GD in zend php.
+- [jphp-process-ext](https://github.com/jphp-group/jphp-process-ext) - process API for jphp, more advanced and powerful!
+- [jphp-ssh-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-ssh-ext/api-docs) - library for working with SSH.
+- [jphp-text-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-text-ext) - library work modify text, finding similar text and diff.
 - [Yaml](https://github.com/jphp-group/jphp/tree/master/exts/jphp-yaml-ext) - a library for working with yaml text format.
+- [Json](https://github.com/jphp-group/jphp/tree/master/exts/jphp-json-ext/api-docs) - parse and format JSON.
 - [Preg](https://github.com/TsSaltan/DevelNext-Preg) - a polyfill for the PRCE functions (`preg_*`) from zend php, for develnext.
