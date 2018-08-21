@@ -20,12 +20,17 @@ A curated list of amazingly awesome JPHP libraries, resources and shiny things.
 - [JPPM](https://github.com/jphp-group/jphp/tree/master/packager) - the default package manager and build tool for JPHP.
 - [Debbuger](https://github.com/jphp-group/jphp/tree/master/jphp-debugger/api-docs) - a debuger for JPHP based on XDebug protocol.
 - [Tester](https://github.com/jphp-group/tester) - a unit test framework for jphp and jppm.
+- [Android](https://github.com/VenityStudio/android) - the JPHP for Android project.
 
 ### GUI
 - JavaFX 
   - JavaFX - [jphp-gui-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-gui-ext/api-docs) - a rich gui library based on JavaFX.
   - Material UI - [jphp-gui-jfoenix-ext](https://github.com/jphp-group/jphp/tree/master/exts/jphp-gui-jfoenix-ext/api-docs) - material ui components for the JavaFX library.
   - Charts Extension [jphp-charts-ext](https://github.com/jphp-group/jphp-charts-ext) - charts Extension
+  - [ControlsFX](https://github.com/jphp-group/jphp-controlsfx-ext) - new controls for JavaFX Extension.
+  - [RichTextFX](https://github.com/jphp-group/jphp-richtextfx-ext) - RichTextArea for JavaFX Extension.
+  - [AnimateFX](https://github.com/jphp-group/jphp-animatefx-ext) - awesome animations for JavaFX Extension.
+  - [Webcam](https://github.com/jphp-group/jphp-webcam-ext) - extension for working with webcam.
 - SWT - [jphp-swt-ext](https://github.com/jphp-group/jphp-swt-ext) - a lightweight gui library based on SWT and with good performance.
 
 ### Web
