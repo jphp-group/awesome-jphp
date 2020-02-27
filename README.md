@@ -10,7 +10,7 @@ A curated list of amazingly awesome JPHP libraries, resources and shiny things.
   - [Web](#web)
   - [Desktop](#desktop)
   - [Database](#database)
-  - [Template Engines](#temple-engines)
+  - [Template Engines](#template-engines)
   - [Miscellaneous](#miscellaneous)
   
 ### General
